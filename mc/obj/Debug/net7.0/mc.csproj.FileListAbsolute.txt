@@ -1,0 +1,15 @@
+/home/darko/Desktop/CompilerC/CompilerC/mc/bin/Debug/net7.0/mc
+/home/darko/Desktop/CompilerC/CompilerC/mc/bin/Debug/net7.0/mc.deps.json
+/home/darko/Desktop/CompilerC/CompilerC/mc/bin/Debug/net7.0/mc.runtimeconfig.json
+/home/darko/Desktop/CompilerC/CompilerC/mc/bin/Debug/net7.0/mc.dll
+/home/darko/Desktop/CompilerC/CompilerC/mc/bin/Debug/net7.0/mc.pdb
+/home/darko/Desktop/CompilerC/CompilerC/mc/obj/Debug/net7.0/mc.csproj.AssemblyReference.cache
+/home/darko/Desktop/CompilerC/CompilerC/mc/obj/Debug/net7.0/mc.GeneratedMSBuildEditorConfig.editorconfig
+/home/darko/Desktop/CompilerC/CompilerC/mc/obj/Debug/net7.0/mc.AssemblyInfoInputs.cache
+/home/darko/Desktop/CompilerC/CompilerC/mc/obj/Debug/net7.0/mc.AssemblyInfo.cs
+/home/darko/Desktop/CompilerC/CompilerC/mc/obj/Debug/net7.0/mc.csproj.CoreCompileInputs.cache
+/home/darko/Desktop/CompilerC/CompilerC/mc/obj/Debug/net7.0/mc.dll
+/home/darko/Desktop/CompilerC/CompilerC/mc/obj/Debug/net7.0/refint/mc.dll
+/home/darko/Desktop/CompilerC/CompilerC/mc/obj/Debug/net7.0/mc.pdb
+/home/darko/Desktop/CompilerC/CompilerC/mc/obj/Debug/net7.0/mc.genruntimeconfig.cache
+/home/darko/Desktop/CompilerC/CompilerC/mc/obj/Debug/net7.0/ref/mc.dll

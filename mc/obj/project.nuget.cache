@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D9F9p9ib7qqSsbXdGo1dLgB3w2eD/xDf6dTmFzy2vVekRLgdyRoS2LoFlEvbeB/lmStR8iajBC42TjtC7fwpWQ==",
+  "success": true,
+  "projectFilePath": "/home/darko/Desktop/CompilerC/CompilerC/mc/mc.csproj",
+  "expectedPackageFiles": [
+    "/home/darko/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
